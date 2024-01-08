@@ -2489,6 +2489,10 @@ const quiz = {
   quizTitle: 'PSM1 Quiz',
   quizSynopsis: 'Good Luck!',
   nrOfQuestions: questionList.length,
+  appLocale: {
+    marksOfQuestion: '',
+    singleSelectionTagText: 'MCQ'
+  },
   questions: questionList.map((q) => {
     return {
       question: q.question,

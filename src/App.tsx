@@ -7,7 +7,7 @@ function App() {
   const [, setQuizResult] = useState()
 
   return (
-    <div style={{ margin: 'auto', width: '500px' }}>
+    <div style={{ margin: 'auto' }}>
       <Quiz
         quiz={quiz}
         shuffle

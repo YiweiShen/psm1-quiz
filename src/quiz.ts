@@ -2496,7 +2496,9 @@ const quiz = {
       answerSelectionType: q.correctAnswer.length > 1 ? 'multiple' : 'single',
       answers: q.answers,
       correctAnswer: q.correctAnswer,
-      point: 1
+      point: 1,
+      messageForCorrectAnswer: 'Correct!',
+      messageForIncorrectAnswer: 'Wrong!'
     }
   })
 }

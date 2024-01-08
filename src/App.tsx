@@ -4,7 +4,7 @@ import quiz from './quiz'
 import './App.css'
 
 function App() {
-  const [quizResult, setQuizResult] = useState()
+  const [, setQuizResult] = useState()
 
   return (
     <div style={{ margin: 'auto', width: '500px' }}>

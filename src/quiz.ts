@@ -2482,6 +2482,43 @@ const questionList = [
       'When all Product Backlog items meet their Definition of Done.'
     ],
     correctAnswer: [2]
+  },
+  {
+    question:
+      'Which agile aspect refuses what is often considered a “necessary evil” in many industries – long work hours, overtime, or even working nights or weekends?',
+    answers: [
+      'Continuous Delivery.',
+      'Small releases.',
+      'DevOps.',
+      'Sustainable pace.'
+    ],
+    correctAnswer: [4]
+  },
+  {
+    question: 'What is Scrum?',
+    answers: [
+      'A framework for developing, delivering, and sustaining complex products.',
+      'A process that includes the best industry practices for developing software.',
+      'A prescriptive process following the principles of Lean Management.',
+      'A cookbook for working within complex environments.'
+    ],
+    correctAnswer: [1]
+  },
+  {
+    question: 'What does the Cone of Uncertainty present?',
+    answers: [
+      'The dependencies, resources, and estimated effort for a project’s tasks and budget.',
+      "How the product's knowledge evolves.",
+      'The project schedule.',
+      'The remaining work for a project.'
+    ],
+    correctAnswer: [2]
+  },
+  {
+    question:
+      'Scrum is both an incremental and iterative agile way of delivering work.',
+    answers: ['True', 'False'],
+    correctAnswer: [1]
   }
 ]
 

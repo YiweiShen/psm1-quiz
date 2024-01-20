@@ -2519,6 +2519,29 @@ const questionList = [
       'Scrum is both an incremental and iterative agile way of delivering work.',
     answers: ['True', 'False'],
     correctAnswer: [1]
+  },
+  {
+    question: 'What is Scrum founded on?',
+    answers: [
+      'Lean Thinking and Scientific Management',
+      'Just In Time Principles and Rapid Application Development',
+      'Empiricism and Lean Thinking',
+      'Extreme Management and Lean Canvas',
+      'Adaptive Learning and Agility'
+    ],
+    correctAnswer: [3]
+  },
+  {
+    question:
+      'Which Scrum value is manifested when an information radiator such as a burndown, burnup, or cumulative flow chart is made available so that everyone can see it?',
+    answers: [
+      'Adaptation',
+      'Simplicity',
+      'Openness',
+      'Transparency',
+      'Communication'
+    ],
+    correctAnswer: [3]
   }
 ]
 

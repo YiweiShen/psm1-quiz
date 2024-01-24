@@ -2542,6 +2542,74 @@ const questionList = [
       'Communication'
     ],
     correctAnswer: [3]
+  },
+  {
+    question:
+      'What statement best describes the Product Owner’s accountability?',
+    answers: [
+      'Defining the work to be performed by the Developers.',
+      'Maximizing the value of the product resulting from the work of the Scrum Team. ',
+      'Estimating the effort of each Product Backlog item.',
+      'Describing each Product Backlog item following the Definition of Ready.'
+    ],
+    correctAnswer: [2]
+  },
+  {
+    question: 'What is the role of Management in Scrum?',
+    answers: [
+      `Procurement management, making sure that the Scrum Team follows the contract's terms.`,
+      'Make sure that the project’s budget is being used as planned.',
+      `Monitor the Scrum Team's productivity and deliverables' quality.`,
+      'Embrace bottom-up intelligence by providing information to the Scrum Team, supporting its empiricism, and trusting it to learn about the problem at hand.'
+    ],
+    correctAnswer: [4]
+  },
+  {
+    question: 'Which of the below are accountabilities on a Scrum Team?',
+    answers: [
+      'Product Manager, Scrum Master, Testers, Developers',
+      'Project Manager, Product Manager, Development Team',
+      'Product Owner, Scrum Master, Developer',
+      'Product Owner, Project Manager, Scrum Master',
+      'Chicken and Pigs'
+    ],
+    correctAnswer: [3]
+  },
+  {
+    question:
+      'What is the primary service that the Scrum Master provides to help the Developers maximize their productivity?',
+    answers: [
+      'Update the burndown chart daily.',
+      'Ensure that the meetings are executed during the planned schedule and time-box.',
+      'Facilitate decisions of the Developers',
+      'Ensure the task management tools (such as Jira) are updated.'
+    ],
+    correctAnswer: [3]
+  },
+  {
+    question: 'The Developers should have all the skills needed to:',
+    answers: [
+      'Create a product Increment.',
+      'Deliver a product Increment, except for specialized quality control that requires specialized skills or resources.',
+      'Deliver all the work committed to the Product Owner within the project plan’s date and cost.'
+    ],
+    correctAnswer: [1]
+  },
+  {
+    question: 'Who has the final say on the Product Backlog ordering?',
+    answers: [
+      'The Developers',
+      'The Product Owner',
+      'The Scrum Master',
+      'The CEO',
+      'The Paying Customer'
+    ],
+    correctAnswer: [2]
+  },
+  {
+    question: 'The Scrum Master is a manager.',
+    answers: ['True', 'False'],
+    correctAnswer: [1]
   }
 ]
 

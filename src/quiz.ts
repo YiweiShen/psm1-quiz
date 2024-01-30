@@ -2610,6 +2610,33 @@ const questionList = [
     question: 'The Scrum Master is a manager.',
     answers: ['True', 'False'],
     correctAnswer: [1]
+  },
+  {
+    question:
+      'True or False: The only Product Backlog items that the Scrum Team can select during Sprint Planning are the ones considered Ready (i.e., can be done within one Sprint).',
+    answers: ['True', 'False'],
+    correctAnswer: [2]
+  },
+  {
+    question:
+      'True or False: The Product Goal represents the desired end state whenever all the Product Backlog items must be "Done."',
+    answers: ['True', 'False'],
+    correctAnswer: [2]
+  },
+  {
+    question: 'Which statement best describes a Product Backlog?',
+    answers: [
+      'Large Product Backlog items are described as Epics and smaller ones as User Stories.',
+      'Product Backlog items include test descriptions that prove their completeness when “Done.”',
+      'An emergent ordered list of what is needed to improve the product. It is the single source of work undertaken by the Scrum Team.'
+    ],
+    correctAnswer: [3]
+  },
+  {
+    qeustion:
+      'True or False: The Product Backlog might commit to a Product Goal.',
+    answers: ['True', 'False'],
+    correctAnswer: [2]
   }
 ]
 

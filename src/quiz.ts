@@ -1,4 +1,10 @@
-const questionList = [
+interface Question {
+  question: string
+  answers: string[]
+  correctAnswer: number[]
+}
+
+const questionList: Question[] = [
   {
     question: 'Who creates the Definition of Done?',
     answers: [
@@ -758,7 +764,7 @@ const questionList = [
   },
   {
     question:
-      'A product Increment must be released to production at the end of each Sprint.v',
+      'A product Increment must be released to production at the end of each Sprint.',
     answers: ['True.', 'False.'],
     correctAnswer: [2]
   },
@@ -2633,10 +2639,40 @@ const questionList = [
     correctAnswer: [3]
   },
   {
-    qeustion:
+    question:
       'True or False: The Product Backlog might commit to a Product Goal.',
     answers: ['True', 'False'],
     correctAnswer: [2]
+  },
+  {
+    question:
+      'True or False: An Increment can only be released after a Sprint is over.',
+    answers: ['True', 'False'],
+    correctAnswer: [2]
+  },
+  {
+    question: `True or False: If the Definition of Done for an Increment is part of the organization's standards, all Scrum Teams must follow it as a minimum.`,
+    answers: ['True', 'False'],
+    correctAnswer: [1]
+  },
+  {
+    question: 'Which of the following best describes the Increment?',
+    answers: [
+      'The Increment cannot be released during the Sprints; the Product Owner must wait for the Sprint to be over to release it.',
+      'The Increment is released at the end of every Sprint.',
+      'The moment a Product Backlog item meets the Definition of Done, an Increment is born.'
+    ],
+    correctAnswer: [3]
+  },
+  {
+    question: 'Who creates the Definition of Done?',
+    answers: [
+      `The Product Owner as he/she is responsible for the product's success`,
+      `The Scrum Team, in a collaborative effort where the result is the common denominator of all members' definitions`,
+      'The development organization (or Scrum Team if none is available from the development organization)',
+      `The Scrum Master as he/she is accountable for the Scrum Team’s effectiveness.`
+    ],
+    correctAnswer: [3]
   }
 ]
 

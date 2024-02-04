@@ -2673,6 +2673,74 @@ const questionList: Question[] = [
       `The Scrum Master as he/she is accountable for the Scrum Team’s effectiveness.`
     ],
     correctAnswer: [3]
+  },
+  {
+    question:
+      'True or False: The Sprint Backlog is composed of the Sprint Goal (why), the set of Product Backlog items selected for the Sprint (what), as well as an actionable plan for delivering the Increment (how).',
+    answers: ['True', 'False'],
+    correctAnswer: [1]
+  },
+  {
+    question:
+      'True or False: The work planned during Sprint Planning must be decomposed into one day or fewer units.',
+    answers: ['True', 'False'],
+    correctAnswer: [2]
+  },
+  {
+    question:
+      'True or False: The Scrum Master defines the Sprint Goal during Sprint Planning.',
+    answers: ['True', 'False'],
+    correctAnswer: [2]
+  },
+  {
+    question:
+      'What is the time-box for the Sprint Planning for a two weeks Sprint?',
+    answers: ['2 hours', '4 hours', '8 hour or less', 'As long as needed'],
+    correctAnswer: [3]
+  },
+  {
+    question:
+      'During a Sprint, the CEO asks the Developers to add work on something critical not part of the Sprint Backlog. What should the Developer do?',
+    answers: [
+      'Add the item to the current Sprint without any adjustments.',
+      'Add the item to the current Sprint and drop an item of equal size.',
+      'Inform the Product Owner so the Product Owner can handle the request of the CEO.',
+      'Add the item to the next Sprint.'
+    ],
+    correctAnswer: [3]
+  },
+  {
+    question:
+      'The Sprint Backlog is a plan by and for the Developers. (Which of the following statement is FALSE?)',
+    answers: [
+      'An output of the Sprint Planning is the Sprint Backlog, which consists of all the tasks to be executed during the Sprint.',
+      'The Developers may ask the Product Owner for clarifications during the Sprint.',
+      'The Sprint Backlog is emergent.',
+      'Work can be removed or added through the collaboration between the Developers and the Product Owner.'
+    ],
+    correctAnswer: [1]
+  },
+  {
+    question:
+      'When does a Developer become the owner of a work unit (i.e., work item, task, technical task, or task card)?',
+    answers: [
+      'When the Developer can accommodate more work.',
+      'At the Sprint Planning event.',
+      'Never.',
+      'During the Daily Scrum.'
+    ],
+    correctAnswer: [3]
+  },
+  {
+    question:
+      'The Sprint Backlog is composed of the Sprint Goal (why), the set of Product Backlog items selected for the Sprint (what), as well as an actionable plan for delivering the Increment (how).(Which of the following sentences is FALSE?)',
+    answers: [
+      'The Sprint Backlog makes all of the work that the Developers identify as necessary to meet the Sprint Goal.',
+      'The Developers modify the Sprint Backlog throughout the Sprint, and the Sprint Backlog emerges during the Sprint.',
+      'The Sprint Backlog is a plan with enough detail that changes in progress can be understood in the Daily Scrum.',
+      'The Developers commit to the Sprint Backlog.'
+    ],
+    correctAnswer: [4]
   }
 ]
 

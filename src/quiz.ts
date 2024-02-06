@@ -2741,6 +2741,92 @@ const questionList: Question[] = [
       'The Developers commit to the Sprint Backlog.'
     ],
     correctAnswer: [4]
+  },
+  {
+    question:
+      'True or False: The Sprint Review is a formal meeting for demonstrating the Increment.',
+    answers: ['True', 'False'],
+    correctAnswer: [2]
+  },
+  {
+    question: 'Which statement best describes the Sprint Review?',
+    answers: [
+      'It is when management verifies the work that was completed.',
+      'It is when Scrum Team demonstrates the work that was completed.',
+      'The purpose of the Sprint Review is to inspect the outcome of the Sprint and determine future adaptations.'
+    ],
+    correctAnswer: [3]
+  },
+  {
+    question: 'The Sprint Review is time-boxed to?',
+    answers: [
+      '4 hours',
+      '8 hours',
+      'As long as needed',
+      '1 hour',
+      '4 hours for a monthly Sprint. For shorter Sprints it is usually shorter.'
+    ],
+    correctAnswer: [5]
+  },
+  {
+    question: 'The Sprint Retrospective is time-boxed to:',
+    answers: [
+      '2 hours',
+      '4 hours',
+      'As long as needed',
+      '3 hours for a monthly Sprint. For shorter Sprints it is usually shorter.',
+      '3 hours'
+    ],
+    correctAnswer: [4]
+  },
+  {
+    question:
+      'True or False: The Scrum Team must choose at least one high-priority process improvement, identified during the Sprint Retrospective, and place it in the Sprint Backlog.',
+    answers: ['True', 'False'],
+    correctAnswer: [2]
+  },
+  {
+    question: 'Which statement best describes the Sprint Retrospective?',
+    answers: [
+      'It is an opportunity for the Scrum Team to plan ways to increase quality and effectiveness.',
+      'It is a time to inspect the Scrum Team’s progress toward the Sprint Goal.',
+      'It is a mechanism for the management to inspect the Scrum Team’s progress toward the Sprint Goal.'
+    ],
+    correctAnswer: [1]
+  },
+  {
+    question: 'Who must participate in Sprint Retrospectives?',
+    answers: [
+      'The Scrum Master',
+      'The Product Owner',
+      'The Developers',
+      'The Scrum Team',
+      'The Scrum Team and the stakeholders'
+    ],
+    correctAnswer: [4]
+  },
+  {
+    question:
+      'True or False: When multiple teams work together on the same product, each team has its Product Owner. Therefore, it is possible to have multiple Product Owners for the same product.',
+    answers: ['True', 'False'],
+    correctAnswer: [2]
+  },
+  {
+    question:
+      'True or False: When multiple teams work together on the same product, each team should maintain a separate Product Backlog to reduce complexity.',
+    answers: ['True', 'False'],
+    correctAnswer: [2]
+  },
+  {
+    question:
+      'Who describes the Definition of Done in the case of multiple Scrum Teams working on a single product?',
+    answers: [
+      'It depends on the type of the product.',
+      'The Scrum Master',
+      'Each Scrum Team defines its own Definition of Done.',
+      'All Scrum Teams must mutually agree upon a shared Definition of Done.'
+    ],
+    correctAnswer: [4]
   }
 ]
 

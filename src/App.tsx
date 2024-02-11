@@ -14,8 +14,8 @@ function App() {
         shuffleAnswer
         showInstantFeedback
         onComplete={setQuizResult}
-        // timer={60}
-        // allowPauseTimer={false}
+        timer={3600}
+        allowPauseTimer={false}
       />
     </div>
   )

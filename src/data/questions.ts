@@ -1656,15 +1656,6 @@ export const questions: Question[] = [
     correctAnswer: [3]
   },
   {
-    question: 'Every Development Team should have:',
-    answers: [
-      'At least one representative from each major software engineering discipline (like QA, Dev, UX).',
-      'The competencies and skills needed to deliver a Done Increment in a Sprint.',
-      'One Lead Developer and no more than 8 other members.'
-    ],
-    correctAnswer: [2]
-  },
-  {
     question: 'Which best describes the Product Backlog?',
     answers: [
       'It is allowed to grow and change as more is learned about the product and its customers.',

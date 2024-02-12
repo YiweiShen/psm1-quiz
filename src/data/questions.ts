@@ -2466,16 +2466,6 @@ export const questions: Question[] = [
     correctAnswer: [4]
   },
   {
-    question: 'What is Scrum?',
-    answers: [
-      'A framework for developing, delivering, and sustaining complex products.',
-      'A process that includes the best industry practices for developing software.',
-      'A prescriptive process following the principles of Lean Management.',
-      'A cookbook for working within complex environments.'
-    ],
-    correctAnswer: [1]
-  },
-  {
     question: 'What does the Cone of Uncertainty present?',
     answers: [
       'The dependencies, resources, and estimated effort for a project’s tasks and budget.',

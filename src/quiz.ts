@@ -16,16 +16,6 @@ const questionList: Question[] = [
     correctAnswer: [2]
   },
   {
-    question: 'When does the next Sprint begin?',
-    answers: [
-      'When the Product Owner is ready.',
-      'Next Monday.',
-      'Immediately after the conclusion of the previous Sprint.',
-      'Immediately following the next Sprint Planning.'
-    ],
-    correctAnswer: [4]
-  },
-  {
     question:
       'You have just been hired by a company new to Scrum. Your management has assigned you to be the Scrum Master of six new Scrum Teams. These teams will build one product. Select two conditions you should strive for in this scenario.',
     answers: [

@@ -2294,17 +2294,6 @@ export const questions: Question[] = [
     correctAnswer: [3]
   },
   {
-    question:
-      'When does a Developer become the sole owner of an item on the Sprint Backlog?',
-    answers: [
-      'Whenever a team member can accommodate more work.',
-      'At the Sprint Planning event',
-      'Never. All Sprint Backlog items are "owned" by the Developers on the Scrum Team.',
-      'During the Daily Scrum'
-    ],
-    correctAnswer: [3]
-  },
-  {
     question: 'What is the typical size for a Scrum Team?',
     answers: ['10 or fewer.', 'Minimum of 7.', '7 plus or minus', '9'],
     correctAnswer: [1]

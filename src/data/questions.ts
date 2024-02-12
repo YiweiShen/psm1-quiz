@@ -2193,16 +2193,6 @@ export const questions: Question[] = [
     correctAnswer: [4]
   },
   {
-    question: 'What does it mean to say that an event has a timebox?',
-    answers: [
-      'The event must happen by a given time.',
-      'The event must happen at a set time.',
-      'The event must take at least a minimum amount of time',
-      'The event can take no more than a maximum amount of time.'
-    ],
-    correctAnswer: [4]
-  },
-  {
     question: 'Upon what type of process control is Scrum based?',
     answers: ['Hybrid', 'Empirical', 'Defined', 'Complex'],
     correctAnswer: [2]

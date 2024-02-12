@@ -2330,7 +2330,7 @@ const questionList: Question[] = [
       'Without a new vocabulary as a reminder of the change, very little change may actually happen',
       'The organization may not understand what has changed with Scrum and the benefits of Scrum may be lost',
       'Management may feel less anxious',
-      'Al of the above'
+      'All of the above'
     ],
     correctAnswer: [4]
   },

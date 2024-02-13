@@ -729,12 +729,6 @@ export const questions: Question[] = [
   },
   {
     question:
-      'A product Increment must be released to production at the end of each Sprint.',
-    answers: ['True.', 'False.'],
-    correctAnswer: [2]
-  },
-  {
-    question:
       'If burndown charts are used to visualize progress, what do they track?',
     answers: [
       'Accumulated cost.',

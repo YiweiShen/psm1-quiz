@@ -400,15 +400,6 @@ export const questions: Question[] = [
     correctAnswer: [2]
   },
   {
-    question: 'The Development Team should have all the skills needed to:',
-    answers: [
-      'Turn Product Backlog items into an Increment of potentially releasable product functionality.',
-      'Do all of the development work, except for specialized testing that requires additional tools and environments.',
-      'Complete the project within the date and cost as calculated by the Product Owner.'
-    ],
-    correctAnswer: [1]
-  },
-  {
     question: 'What is the Scrum Master responsible?',
     answers: [
       'Prioritizing the resulting action items.',
@@ -2050,15 +2041,6 @@ export const questions: Question[] = [
       'Raise the increased team size as a potential issue and help the Developers decide what to do about it.'
     ],
     correctAnswer: [4]
-  },
-  {
-    question: 'The Developers should have all the skills needed to:',
-    answers: [
-      'Complete the project as estimated when the date and cost are committed to the Product Owner.',
-      'Turn the Product Backlog items they select into an Increment of useful and valuable product functionality.',
-      'Do all of the development work, except for specialized testing that requires additional tools and environments.'
-    ],
-    correctAnswer: [2]
   },
   {
     question:

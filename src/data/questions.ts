@@ -1578,17 +1578,6 @@ export const questions: Question[] = [
   },
   {
     question:
-      'What are two good ways for the Development Team to make non-functional requirements visible?',
-    answers: [
-      'Put them on a separate list on the Scrum board, available for all to see.',
-      'Add them to the Product Backlog and keep the Product Owner posted on the expected effort.',
-      'Run the integration and regression tests before the end of the Sprint, and capture the open work for the Sprint Backlog of the next Sprint.',
-      'Add them to the definition of "Done" so the work is taken care of every Sprint.'
-    ],
-    correctAnswer: [2, 4]
-  },
-  {
-    question:
       'Which three questions might be answered by Development Team members at the Daily Scrum?',
     answers: [
       'How is the Sprint proceeding?',

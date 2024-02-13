@@ -2141,16 +2141,6 @@ export const questions: Question[] = [
     correctAnswer: [1, 2]
   },
   {
-    question: 'Who is on the Scrum Team?',
-    answers: [
-      'The Scrum Master.',
-      'Project Manager.',
-      'The Product Owner.',
-      'Developers.'
-    ],
-    correctAnswer: [1, 3, 4]
-  },
-  {
     question: 'The three pillars of empiricism are:',
     answers: [
       'Respect For People, Kaizen, Eliminating Waste.',

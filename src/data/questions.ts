@@ -2224,17 +2224,6 @@ export const questions: Question[] = [
     correctAnswer: [2, 5, 6]
   },
   {
-    question: 'Who is required to attend the Daily Scrum?',
-    answers: [
-      'The Scrum Master and Product Owner.',
-      'The Developers and Scrum Master.',
-      'The Developers.',
-      'The Developers and Product Owner.',
-      'The Scrum Team'
-    ],
-    correctAnswer: [3]
-  },
-  {
     question:
       'How much work must the Developers complete for each Product Backlog item they select for a Sprint?',
     answers: [

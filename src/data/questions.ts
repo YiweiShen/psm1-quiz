@@ -729,16 +729,6 @@ export const questions: Question[] = [
   },
   {
     question:
-      'What is the tactic a Scrum Master should use to divide a group of 100 people into multiple Development Teams?',
-    answers: [
-      'Create teams based on their skills across multiple layers (such as database, UI, etc.)',
-      'Ask the Product Owner to assign the people to teams.',
-      'Ask the developers to divide themselves into teams.'
-    ],
-    correctAnswer: [3]
-  },
-  {
-    question:
       'A product Increment must be released to production at the end of each Sprint.',
     answers: ['True.', 'False.'],
     correctAnswer: [2]

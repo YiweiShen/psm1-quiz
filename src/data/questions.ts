@@ -2323,12 +2323,6 @@ export const questions: Question[] = [
     correctAnswer: [1, 3]
   },
   {
-    question:
-      'When multiple Scrum Teams work together on the same product, each team should maintain a separate Product Backlog.',
-    answers: ['True.', 'False.'],
-    correctAnswer: [2]
-  },
-  {
     question: 'When should a Developer on a Scrum Team be replaced?',
     answers: [
       'As needed, while taking into account a short-term reduction in productivity.',
@@ -2663,12 +2657,6 @@ export const questions: Question[] = [
   {
     question:
       'True or False: When multiple teams work together on the same product, each team has its Product Owner. Therefore, it is possible to have multiple Product Owners for the same product.',
-    answers: ['True', 'False'],
-    correctAnswer: [2]
-  },
-  {
-    question:
-      'True or False: When multiple teams work together on the same product, each team should maintain a separate Product Backlog to reduce complexity.',
     answers: ['True', 'False'],
     correctAnswer: [2]
   },

@@ -729,17 +729,6 @@ export const questions: Question[] = [
   },
   {
     question:
-      'If burndown charts are used to visualize progress, what do they track?',
-    answers: [
-      'Accumulated cost.',
-      'Individual worker productivity.',
-      'Work remaining across time.',
-      'Accumulated business value delivered to the customer.'
-    ],
-    correctAnswer: [3]
-  },
-  {
-    question:
       'How is management external to the Scrum Team involved in the Daily Scrum?',
     answers: [
       'The Scrum Master speaks on their behalf.',
@@ -2050,16 +2039,6 @@ export const questions: Question[] = [
       'True - As long as a product exists, its Product Backlog also exists.'
     ],
     correctAnswer: [2]
-  },
-  {
-    question: 'What does the Sprint burn-down chart show?',
-    answers: [
-      'The evolution of the amount of uncertainty during a project.',
-      'An overview of the release progress by plotting the remaining workload.',
-      'Dependencies, start times and stop times for project tasks3.',
-      'How much work remains until the end of the Sprint.'
-    ],
-    correctAnswer: [4]
   },
   {
     question:

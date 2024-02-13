@@ -716,17 +716,6 @@ export const questions: Question[] = [
     correctAnswer: [1]
   },
   {
-    question: 'What is the time-box for the Sprint Review?',
-    answers: [
-      'As long as needed.',
-      '2 hours for a monthly Sprint.',
-      '4 hours for a monthly Sprint.',
-      '4 hours and longer as needed.',
-      '1 day'
-    ],
-    correctAnswer: [3]
-  },
-  {
     question:
       'Who is responsible for tracking the remaining work of the Sprint?',
     answers: [
@@ -799,16 +788,6 @@ export const questions: Question[] = [
       'All of the above.'
     ],
     correctAnswer: [6]
-  },
-  {
-    question: 'What is the time-box for the Sprint Planning meeting?',
-    answers: [
-      '4 Hours for a monthly Sprint.',
-      '8 Hours for a monthly Sprint.',
-      'Monthly.',
-      'Whenever it is done.'
-    ],
-    correctAnswer: [2]
   },
   {
     question:
@@ -2670,17 +2649,6 @@ export const questions: Question[] = [
       'The purpose of the Sprint Review is to inspect the outcome of the Sprint and determine future adaptations.'
     ],
     correctAnswer: [3]
-  },
-  {
-    question: 'The Sprint Review is time-boxed to?',
-    answers: [
-      '4 hours',
-      '8 hours',
-      'As long as needed',
-      '1 hour',
-      '4 hours for a monthly Sprint. For shorter Sprints it is usually shorter.'
-    ],
-    correctAnswer: [5]
   },
   {
     question: 'The Sprint Retrospective is time-boxed to:',

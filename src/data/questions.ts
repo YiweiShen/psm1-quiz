@@ -2153,17 +2153,6 @@ export const questions: Question[] = [
     correctAnswer: [3]
   },
   {
-    question:
-      'What is the main reason for the Scrum Master to be at the Daily Scrum?',
-    answers: [
-      'To gather status and progress information to report to management',
-      'To write down any changes to the Sprint Backlog, including adding new items, and tracking progress on the burn-down.',
-      'They do not have to be there; they only need to ensure the Developers have a Daily Scrum',
-      'To make sure every team member answers the three questions'
-    ],
-    correctAnswer: [3]
-  },
-  {
     question: 'What is the function or purpose of Management in Scrum?',
     answers: [
       'Identify and remove people that are not working hard enough',

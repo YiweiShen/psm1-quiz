@@ -1543,17 +1543,6 @@ export const questions: Question[] = [
   },
   {
     question:
-      'When many Development Teams are working on a single product, what best describes the definition of "Done"?',
-    answers: [
-      'Each Development Team defines and uses its own. The differences are discussed and reconciled during a hardening Sprint.',
-      'It depends.',
-      'Each Development Team uses its own but must make their definition clear to all other teams so the differences are known.',
-      'All Development Teams must have a definition of "Done" that makes their combined work potentially releasable.'
-    ],
-    correctAnswer: [4]
-  },
-  {
-    question:
       'At the seventh Sprint Review, the stakeholders are disappointed and angry. They have determined that the product or system being built will not meet their needs and will cost more than they are willing to spend. What factors likely led to this?',
     answers: [
       'The Project Management Office (PMO) has not been engaged adequately.',

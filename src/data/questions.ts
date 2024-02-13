@@ -2151,17 +2151,6 @@ export const questions: Question[] = [
     correctAnswer: [1, 3, 4]
   },
   {
-    question: 'The timebox for a Daily Scrum is?',
-    answers: [
-      '15 minutes.',
-      '15 minutes for a 4-week sprint. For shorter Sprints it is usually shorter.',
-      'Two minutes per person.',
-      '4 hours.',
-      'The same time of day every day.'
-    ],
-    correctAnswer: [1]
-  },
-  {
     question: 'The three pillars of empiricism are:',
     answers: [
       'Respect For People, Kaizen, Eliminating Waste.',

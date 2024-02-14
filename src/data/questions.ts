@@ -1464,17 +1464,6 @@ export const questions: Question[] = [
   },
   {
     question:
-      'Who is accountable for clearly expressing Product Backlog items?',
-    answers: [
-      'The business analyst who represents the Product Owner.',
-      'The Product Owner.',
-      'The Scrum Master, or the Scrum Master may have the Developers do it.',
-      'The Scrum Master.'
-    ],
-    correctAnswer: [2]
-  },
-  {
-    question:
       'When many Scrum Teams are working on a single product, what best describes the Definition of Done?',
     answers: [
       'Each Scrum Team defines and uses its own. The differences are discussed and reconciled during a hardening Sprint.',

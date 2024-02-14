@@ -2032,17 +2032,6 @@ export const questions: Question[] = [
     correctAnswer: [4]
   },
   {
-    question:
-      'Which two things should the Scrum Team do during the first Sprint?',
-    answers: [
-      'Develop and deliver at least one piece of functionality.',
-      'Deliver an Increment of useful and valuable product',
-      'Determine the complete architecture and infrastructure for the product.',
-      'Create the complete Product Backlog to be developed in subsequent Sprints.'
-    ],
-    correctAnswer: [1, 2]
-  },
-  {
     question: 'The three pillars of empiricism are:',
     answers: [
       'Respect For People, Kaizen, Eliminating Waste.',

@@ -2197,18 +2197,6 @@ export const questions: Question[] = [
   },
   {
     question:
-      'Which of the following services is appropriate for a Scrum Master in regard to the Daily Scrum?',
-    answers: [
-      'Teach the Developers to keep the Daily Scrum within the 15 minute timebox.',
-      'Lead the discussions of the Developers.',
-      'Facilitate in a way that ensures each team member has a chance to speak',
-      'All answers apply.',
-      'Ensure that all 3 questions have been answered'
-    ],
-    correctAnswer: [1]
-  },
-  {
-    question:
       'The Developers should not be interrupted during the Sprint and the Sprint Goal should remain intact. These are conditions that foster creativity, quality and productivity. Which one of the following answers is FALSE?',
     answers: [
       'The Product Owner can help clarify or optimize the Sprint when asked by the Developers.',

@@ -2174,17 +2174,6 @@ export const questions: Question[] = [
     correctAnswer: [3]
   },
   {
-    question: 'Who has the final say on the order of the Product Backlog?',
-    answers: [
-      'The Product Owner.',
-      'The CEO.',
-      'The Developers.',
-      'The Scrum Master.',
-      'The Stakeholders'
-    ],
-    correctAnswer: [1]
-  },
-  {
     question:
       'Who should know the most about the progress toward a business objective or a release, and be able to explain the alternatives most clearly?',
     answers: [
@@ -2355,17 +2344,6 @@ export const questions: Question[] = [
       'Deliver all the work committed to the Product Owner within the project plan’s date and cost.'
     ],
     correctAnswer: [1]
-  },
-  {
-    question: 'Who has the final say on the Product Backlog ordering?',
-    answers: [
-      'The Developers',
-      'The Product Owner',
-      'The Scrum Master',
-      'The CEO',
-      'The Paying Customer'
-    ],
-    correctAnswer: [2]
   },
   {
     question: 'The Scrum Master is a manager.',

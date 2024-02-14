@@ -2251,16 +2251,6 @@ export const questions: Question[] = [
     correctAnswer: [1, 3]
   },
   {
-    question: 'When should a Developer on a Scrum Team be replaced?',
-    answers: [
-      'As needed, while taking into account a short-term reduction in productivity.',
-      'Every Sprint to promote shared learning',
-      'As needed, with no special allowance for changes in productivity.',
-      'Never, it reduces productivity.'
-    ],
-    correctAnswer: [1]
-  },
-  {
     question:
       'The CEO asks the Developers to add a "very important" item to a Sprint that is in progress. What should the Developers do?',
     answers: [

@@ -2,16 +2,6 @@ import { Question } from '../interfaces'
 
 export const questions: Question[] = [
   {
-    question: 'Who creates the Definition of Done?',
-    answers: [
-      `The Product Owner since they are responsible for the product's success.`,
-      'If it is not an organizational standard, the Scrum Team must create a Definition of Done appropriate for the product.',
-      'The Scrum Master since they are responsible for the productivity of the Developers.',
-      `The Scrum Team, in a collaborative effort where the result is the common denominator of all members' definitions.`
-    ],
-    correctAnswer: [2]
-  },
-  {
     question:
       'You have just been hired by a company new to Scrum. Your management has assigned you to be the Scrum Master of six new Scrum Teams. These teams will build one product. Select two conditions you should strive for in this scenario.',
     answers: [
@@ -2394,16 +2384,6 @@ export const questions: Question[] = [
       'The Increment cannot be released during the Sprints; the Product Owner must wait for the Sprint to be over to release it.',
       'The Increment is released at the end of every Sprint.',
       'The moment a Product Backlog item meets the Definition of Done, an Increment is born.'
-    ],
-    correctAnswer: [3]
-  },
-  {
-    question: 'Who creates the Definition of Done?',
-    answers: [
-      `The Product Owner as he/she is responsible for the product's success`,
-      `The Scrum Team, in a collaborative effort where the result is the common denominator of all members' definitions`,
-      'The development organization (or Scrum Team if none is available from the development organization)',
-      `The Scrum Master as he/she is accountable for the Scrum Team’s effectiveness.`
     ],
     correctAnswer: [3]
   },
